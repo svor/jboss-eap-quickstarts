@@ -1,0 +1,15 @@
+# Created by buildmetadata-maven-plugin 1.7.0 ( SHA: 6f444cae ) 
+build.scmRevision.id=38875bae00fd01e5fe8c06bb89677871b655a9a0
+build.scmRevision.url=scm\:git\:git@github.com\:jboss/jboss-parent-pom.git/quickstart-parent/kitchensink-jsp
+build.maven.version=3.6.2
+build.version=7.4.0.Beta
+build.scmRevision.date=11.03.2021
+build.java.vm=OpenJDK 64-Bit Server VM
+build.version.full=7.4.0.Betar38875bae00fd01e5fe8c06bb89677871b655a9a0
+build.java.compiler=HotSpot 64-Bit Tiered Compilers
+build.maven.execution.cmdline=clean install -Dcom.redhat.xpaas.repo.jbossorg
+build.groupId=org.jboss.eap.quickstarts
+build.java.vendor=Ubuntu
+build.java.runtime.name=OpenJDK Runtime Environment
+build.java.runtime.version=11.0.8+10-post-Ubuntu-0ubuntu118.04.1
+build.artifactId=kitchensink-jsp
